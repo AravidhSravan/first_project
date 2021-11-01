@@ -1,0 +1,29 @@
+h1,h3{
+    text-align: center;
+    background-color: lightpink;
+    background-size: 100%;
+    background-repeat: repeat;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.bg{
+    background-color: blue;
+}
+table,td,th {
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: ghostwhite;
+}
+th{
+   background-color: rgb(250, 183, 216); 
+   color: ghostwhite;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+hr{
+    height: 2px;
+    width: 500px;
+    background-image: linear-gradient(to right, rgba(189, 40, 194, 0.904), rgba(211, 26, 235, 0.507));
+}
